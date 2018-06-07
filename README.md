@@ -38,4 +38,4 @@ Oluşturulan dosya yapısını incelemek için
 
 komutunu kullanabilirsiniz.
 
-Daha sonra bilgi mahiyetinde eklemeler yapılması planlanmaktadır.
+Daha sonra bilgi mahiyetinde eklemeler yapılması planlanmaktadır...
