@@ -1,0 +1,19 @@
+#!/bin/bash
+mkdir $1
+cd $1
+cp ~/.bin/resources/pom.xml pom.xml
+mkdir src
+cd src
+mkdir main
+cd main
+mkdir java
+mkdir resources
+mkdir webapp
+cp ~/.bin/resources/struts.xml resources/struts.xml
+cp ~/.bin/resources/log4j2.xml resources/log4j2.xml
+cd webapp
+mkdir WEB-INF
+mkdir WEB-INF/view -p
+cp ~/.bin/resources/web.xml WEB-INF/web.xml
+cd WEB-INF/view
+cp ~/.bin/resources/index.jsp index.jsp
