@@ -1,8 +1,8 @@
 # Tanıtım
-Projenin amacı struts2 ve maven entegrasyonunu hızlı ve düzgün bir biçimde sağlamak, geliştirme ortamı için hızlı bir protatiplendirme çatısı oluşturmaktır. Bu amaçla pom dosyası dizayn edilmiş ve 07.06.2018 tarihi itibari ile tüm bağımlılıkların en son versiyonaları sağlanmıştır. Ayrıca pom aracılığı ile jetty server kurulumu ve proje entegrasyonu gerçekletirilmiştir.
+Projenin amacı struts2 ve maven entegrasyonunu hızlı ve düzgün bir biçimde sağlamak, geliştirme ortamı için hızlı bir protatiplendirme çatısı oluşturmaktır. Bu amaçla pom dosyası dizayn edilmiş ve 07.06.2018 tarihi itibari ile tüm bağımlılıkların en son versiyonaları sağlanmıştır. Ayrıca pom aracılığı ile jetty server kurulumu ve proje entegrasyonu gerçekleştirilmiştir.
   
 ## Kurulum
-Projeyi git ile klonladıktan veya indirdikten sonra daha önce path de tanımladığınız bir klasörünüz varsa oraya copyalayın (webproje ve resource klasörünü). Scripti 
+Projeyi git ile klonladıktan veya indirdikten sonra daha önce path de tanımladığınız bir klasörünüz varsa oraya kopyalayın (sadece **webproje** dosyasını ve hemen yanına **resource** klasörünü). Scripti 
 
 	chmod +x webproje
 
