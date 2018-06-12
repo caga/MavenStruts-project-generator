@@ -1,0 +1,13 @@
+#!/bin/bash
+mkdir $1
+cd $1
+cp ~/.bin/resources/pomj.xml pom.xml
+mkdir src
+cd src
+mkdir main
+cd main
+mkdir java
+mkdir resources
+cd java
+cp ~/.bin/resources/HelloWorld.java HelloWorld.java
+
